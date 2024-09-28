@@ -42,7 +42,7 @@ const LoveLetter = () => {
         Thank you for being a part of my first birthday! <br></br><br></br>
        - Nyra ♡<br></br> 
        <div></div>
-       <img src={imgfile} style={{ "width":"400px", "height":"250px" , "paddingLeft": "20%"}} alt="nyra"/>
+       <img src={imgfile} style={{ "width":"400px", "height":"250px" }} alt="nyra"/>
       </div> 
       
 <div>

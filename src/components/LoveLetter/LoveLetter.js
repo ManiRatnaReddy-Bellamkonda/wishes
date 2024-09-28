@@ -38,7 +38,7 @@ const LoveLetter = () => {
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         Thank you for being a part of my first birthday!<br />
       <br />
-       - Nyra 3 
+       - Nyra ♡
       </div> 
       <video width="100" height="200"  style={{"padding-left": "70%"}}>
         <source src={videofile} type="video/mp4" />

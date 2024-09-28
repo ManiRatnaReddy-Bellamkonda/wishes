@@ -41,7 +41,7 @@ const LoveLetter = () => {
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         Prematho Gundeni guche ni kallu, Aa andame asuya padelanti ni navvu, Viluva kataleni bangaram ee nuvvu, Na Rani ♡ <br></br>
        I Love You Kuchi Rani ♡😘<br></br>
-       - Khanna ♡
+       - Kannna ♡
       
      
       </div> 

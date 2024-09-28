@@ -39,7 +39,7 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        Thank you for being a part of my first birthday! <br></br><br></br>
+        Thank you for being a part of my first birthday! <br></br>
        - Nyra ♡
        <div>  <img src={imgfile} style={{ "width":"300px", "height":"150px" }} alt="nyra"/></div>
      

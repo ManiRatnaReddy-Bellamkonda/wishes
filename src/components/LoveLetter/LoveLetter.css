@@ -3,7 +3,7 @@
 .envelope {
     position: relative;
     width: 600px;
-    height: 850px;
+    height: 800px;
     margin: 50px auto;
     cursor: pointer;
     perspective: 1000px;

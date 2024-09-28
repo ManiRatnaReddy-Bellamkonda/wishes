@@ -53,7 +53,7 @@ const LoveLetter = () => {
         <br></br>
         <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br><br></br><br></br>  <br></br><br></br><br></br>  <br></br><br></br>
     </div>
-    <h1>Tap to open the envelope</h1> <br></br>
+    <h1>Tap to open the envelope!</h1> <br></br>
 
         
  

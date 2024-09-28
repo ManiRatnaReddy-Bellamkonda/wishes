@@ -42,7 +42,7 @@ const LoveLetter = () => {
         Prematho Gundeni guche ni kallu, Aa andame asuya padelanti ni navvu, Viluva kataleni bangaram ee nuvvu, Na Rani ♡ <br></br>
        I Love You Kuchi Rani ♡😘<br></br>
        - Khanna ♡
-       <div>  <img src={imgfile} style={{ "width":"400px", "height":"300px" }} alt="nyra"/></div>
+      
      
       </div> 
       

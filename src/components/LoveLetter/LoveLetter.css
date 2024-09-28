@@ -75,7 +75,7 @@
 @media (max-width: 768px) {
     .envelope {
         width: 80%;
-        height: auto;
+        height: 70%;
     }
 
     .letter {
@@ -88,7 +88,7 @@
 @media (max-width: 480px) {
     .envelope {
         width: 90%;
-        height: auto;
+        height:  70%;
     }
 
     .letter {

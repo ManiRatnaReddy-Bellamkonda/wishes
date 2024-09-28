@@ -53,7 +53,7 @@ const LoveLetter = () => {
         <br></br>
         <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br><br></br><br></br> 
     </div>
-    <h1 style={{"opacity":"0.4"}}>Tap to open the envelope!</h1> <br></br>
+    <h4 style={{"opacity":"0.4"}}>Tap to open the envelope!</h4> <br></br>
 
         
  

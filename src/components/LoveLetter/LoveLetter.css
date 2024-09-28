@@ -3,8 +3,8 @@
 .envelope {
     position: relative;
     width: 600px;
-    height: 1200px;
-    margin: 50px auto;
+    height: 800px;
+    margin: auto ;
     cursor: pointer;
     perspective: 1000px;
     background: url('https://static.vecteezy.com/system/resources/previews/010/029/965/non_2x/love-letter-pattern-texture-with-text-effect-on-a-white-background-valentine-s-day-special-seamless-pattern-design-with-love-shapes-love-endless-pattern-decoration-for-bed-sheets-and-wallpapers-vector.jpg');

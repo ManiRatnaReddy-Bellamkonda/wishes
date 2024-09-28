@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import './LoveLetter.css';
-import audioFile from './kushi.mp3';
+import audioFile from './kushi.mp4';
 import imgfile from './nyra.jpeg';
 
 const LoveLetter = () => {
@@ -36,17 +36,14 @@ const LoveLetter = () => {
    
     <div className={`envelope ${isOpen ? 'open' : ''}`} onClick={!isFullSize ? handleOpenLetter : handleCloseLetter} >
     
-      <div className="flap"></div>
+    <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        Prematho Gundeni guche ni kallu, Aa andame asuya padelanti ni navvu, Viluva kataleni bangaram ee nuvvu, Na Rani ♡ <br></br>
-       I Love You Kuchi Rani ♡😘<br></br>
-       - Kannna ♡
-      
-      
-      
+        Thank you for being a part of my first birthday! <br></br>
+       - Nyra ♡
+         <div>  <img src={imgfile} style={{ "width":"400px", "height":"300px" }} alt="nyra"/></div>
      
-      </div>  
+      </div> 
       
 <div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />

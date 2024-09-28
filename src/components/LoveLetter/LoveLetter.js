@@ -40,9 +40,9 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         Thank you for being a part of my first birthday! <br></br><br></br>
-       - Nyra ♡<br></br> 
-       <div></div>
-       <img src={imgfile} style={{ "width":"300px", "height":"150px" }} alt="nyra"/>
+       - Nyra ♡
+       <div>  <img src={imgfile} style={{ "width":"300px", "height":"150px" }} alt="nyra"/></div>
+     
       </div> 
       
 <div>

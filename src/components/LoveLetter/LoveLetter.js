@@ -51,9 +51,9 @@ const LoveLetter = () => {
         <br></br>
         <br></br>
         <br></br>
-        <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  
+        <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>  <br></br>   <br></br>  <br></br>   <br></br>  <br></br>   <br></br>  <br></br>   <br></br>  <br></br>  
     </div>
-    <h6 style={{opacity: 0.3}}>Tap to open the envelope!</h6> <br></br>
+    <h6 >Tap to open the envelope!</h6> <br></br>
 
         
  
